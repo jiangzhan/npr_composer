@@ -1,0 +1,11 @@
+{
+    "name": "openmedia/npr-composer-integration",
+    "description": "Utility functions and integration with the NRP Composer API.",
+    "type": "library",
+    "require": {},
+    "autoload": {
+      "psr-4": {
+        "OpenMedia\\ComposerIntegration\\": "src/"
+      }
+    }
+}
