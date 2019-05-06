@@ -2,7 +2,7 @@
 
 Npr composer endpoint https://api.composer.nprstations.org/
 
-In the Widget.php we created two widget: 
+In the Widget.php we created two widgets: 
 
   /widget/{ucs}/tracks (NPR implementation notes: This endpoint will return the HTML for the Song Playlist.)
   
